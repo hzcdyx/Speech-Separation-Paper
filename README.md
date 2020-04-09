@@ -2,7 +2,7 @@
 
 This repository contains papers for pure speech separation and multimodal speech separation.
 
-The initial version is writed By Kai Li (Email: tsinghua.kaili@gmail.com).
+By Kai Li (Email: tsinghua.kaili@gmail.com).
 
 Tip: For speech separation beginners, I recommend you to read "deep clustering" & "PIT&uPIT" works which will help understand the problem.
 
@@ -91,6 +91,8 @@ If you have found the code for some of the articles below, welcome to add links.
 :heavy_check_mark: [Audio-Visual Speech Separation and Dereverberation with a Two-Stage Multimodal Network, Ke Tan, Arxiv 2019] [[Paper]](https://arxiv.org/pdf/1909.07352)
 
 :heavy_check_mark: [Co-Separating Sounds of Visual Objects, Ruohan Gao, ICCV 2019] [[Paper]](http://openaccess.thecvf.com/content_ICCV_2019/papers/Gao_Co-Separating_Sounds_of_Visual_Objects_ICCV_2019_paper.pdf) [[Code]](https://github.com/rhgao/co-separation)
+
+:heavy_check_mark: [My lips are concealed: Audio-visual speech enhancement through obstructions, 2019] [[Paper]](https://arxiv.org/pdf/1907.04975.pdf)
 
 :heavy_check_mark: [Multi-modal Multi-channel Target Speech Separation, Rongzhi Guo, J-STSP 2020] [[Paper]](https://arxiv.org/pdf/2003.07032.pdf)
 
